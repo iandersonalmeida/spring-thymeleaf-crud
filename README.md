@@ -6,3 +6,19 @@ Spring Boot features automatic provision of the configuration for application fu
 
 # Getting Started
 ## Dependencies
+- Spring Tools Suite 4.
+- Visual Studio Code or other code editor with support for version control.
+- Git.
+
+# Installation
+In your code editor:
+```
+git clone (repository)
+```
+
+# Executing program
+- Open STS and import the project.
+
+# Acknowledgments
+- https://spring.io/
+- https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html
